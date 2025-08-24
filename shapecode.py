@@ -19,7 +19,7 @@ from mpl_toolkits.mplot3d import Axes3D
 from google.colab import drive
 drive.mount('/content/drive')
 
-"""import numpy as np
+import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 df1=pd.DataFrame(columns=['type', 'number_turns', 'num_teeth1', 'tooth_depth1', 'hole_radius', 'num_teeth2', 'tooth_depth2', 'indent_radius','elev'])
@@ -109,7 +109,7 @@ for num_teeth in range(10,36,5):
               plt.savefig("/content/drive/MyDrive/Shapes_Project_2025/Image_Spur/numteeth_" +str(num_teeth)+"_toothdepth_"+str(tooth_depth)+"_holeradius_"+str(hole_radius)+"_elev_"+str(elev)+".png")
               print("/content/drive/MyDrive/Shapes_Project_2025/Image_Spur/numteeth_" +str(num_teeth)+"_toothdepth_"+str(tooth_depth)+"_holeradius_"+str(hole_radius)+"_elev_"+str(elev)+".png")
               plt.show()
-df1.to_csv("/content/drive/MyDrive/Shapes_Project_2025/Spur.csv")"""
+df1.to_csv("/content/drive/MyDrive/Shapes_Project_2025/Spur.csv")
 
 #Crankshaft Gear
 
@@ -226,7 +226,7 @@ for num_teeth in range(10,36,5):
 df2.to_csv("/content/drive/MyDrive/Shapes_Project_2025/Crankshaft.csv")"""
 
 #Reduction Gear
-"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
@@ -331,7 +331,7 @@ for num_teeth1 in range(10,36,5):
 
                   plt.show()
 df3.to_csv("/content/drive/MyDrive/Shapes_Project_2025/Reduction.csv")
-"""
+
 
 import numpy as np
 import matplotlib.pyplot as plt
