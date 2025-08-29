@@ -22,6 +22,6 @@ These gear images were generated using parametric equations by varying the follo
 |                  8| indent_radius |         -1          |3 variants:3-5   |         -1       |               -1|
   
 |                  9|Elevation      |  3 variants:30-50   |3 variants:30-50|   3 variants:30-50|  54 variants:0-53|
-</pre>pre>
+</pre>
 
 
