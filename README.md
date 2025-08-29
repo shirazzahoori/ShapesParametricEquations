@@ -5,8 +5,11 @@ These gear images were generated using parametric equations by varying the follo
 
 **| Parameter Count |Parameter Name |      Spur Gear | Crankshaft Gear | Reduction Gear |       Worm Gear |**
 |                  1|           type|               1|                2|               3|                4|
+
 |                  2|   number_turns|              -1|               -1|             -1 |10 variants:10-55|
+
 |                  3|     num_teeth1|6 variants:10-35| 6 variants:10-35|6 variants:10-35|               -1|
+
 |                  4|   tooth_depth1| 6 variants:1-3 | 5 variants:1-2.5|----------|----------|----------|
 |                  5|----------|----------|----------|----------|----------|----------|
 |                  6|----------|----------|----------|----------|----------|----------|
