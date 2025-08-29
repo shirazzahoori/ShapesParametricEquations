@@ -2,7 +2,7 @@
 Developed a dataset for a gear type and parameter prediction model, focusing on four types of gears: Spur Gear, Crankshaft Gear, Reduction Gear, and Worm Gear. A total of 540 images were generated for each of the four gear types, resulting in 2,160 images overall.
 
 These gear images were generated using parametric equations by varying the following nine parameters.
-
+<pre>
 **| Parameter Count |Parameter Name |      Spur Gear | Crankshaft Gear | Reduction Gear |       Worm Gear |**
 |                  1|           type|               1|                2|               3|                4|
 
@@ -17,7 +17,7 @@ These gear images were generated using parametric equations by varying the follo
 |                  8|----------|----------|----------|----------|----------|----------|
 |                  9|----------|----------|----------|----------|----------|----------|
 |              Total|----------|----------|----------|----------|----------|----------|
-
+</pre>pre>
 
 
 
